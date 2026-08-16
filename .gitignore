@@ -1,0 +1,18 @@
+# MATLAB temporary and autosave files
+*.asv
+*.m~
+*.m.bak
+*.slx.bak
+
+# MATLAB data and figure caches
+*.mat
+*.fig
+*.mex*
+
+# Simulink cache folders
+slprj/
+*_slprj/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
